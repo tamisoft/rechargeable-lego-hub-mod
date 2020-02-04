@@ -1,0 +1,9 @@
+production/*.7z
+production/*.zip
+*.sch-bak
+*.kicad_pcb-bak
+charger/*.csv
+charger/*.xlsx
+charger/*.xml
+charger/*.tsv
+
